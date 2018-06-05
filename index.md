@@ -1,8 +1,8 @@
 ## Myra's MakerLab
 
-You can use the [editor on GitHub](https://github.com/mirarol/mirarol.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hey, I'm Myra. Welcome to my MakerLab. This year (2018), I will be guiding learners through several MakerLab style workshops at a number of conferences. I will use this site to share instructions, links, assets, and resources. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The best way to reach me is via LinkedIn, so be sure to connect with me. 
 
 ### Markdown
 
