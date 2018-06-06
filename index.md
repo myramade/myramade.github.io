@@ -4,9 +4,13 @@ Hey, I'm Myra. Welcome to my MakerLab. This year (2018), I will be guiding learn
 
 The best way to reach me is via LinkedIn, so be sure to connect with me. 
 
-### Markdown
+### MakerLabs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Choose your poison. 
+1. [Vroom! Let's Build a VR Prototype] ( )
+2. Let's Build a Chatbot
+3. Publish a Chatbot as an Alexa Skill
+ 
 
 ```markdown
 Syntax highlighted code block
