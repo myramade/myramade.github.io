@@ -31,7 +31,7 @@ In order to create our VR experiences, you will need to assets that you can use 
 
 ## Labs
 
-[**Lab 1: VR Viewer**](https://github.com/mirarol/mirarol.github.io/blob/master/vr/index.html)
+[**Lab 1: VR Viewer**](https://github.com/mirarol/mirarol.github.io/blob/master/vr/index.md)
 
 
 
