@@ -60,5 +60,6 @@ These labs are part of a workshop that I faciliate. In this repo, I will not go 
 * [Tripod - SMATree selfie stick with tripod](https://www.amazon.com/Smatree-Q3-Telescoping-Session-Cameras/dp/B00XN1P9QI/ref=sr_1_1?ie=UTF8&qid=1528579527&sr=8-1&keywords=smatree+q3+telescoping+selfie+stick+with+tripod+stand+for+gopro+hero)
 * [Ricoh Theta phone app](https://theta360.com/en/about/application/)
 
-
+## Contact
+Want to bring me to your org for a VR Maker Lab? Connect with me on [LinkedIn](https://www.linkedin.com/in/myraroldan/) & send me a message. 
 
