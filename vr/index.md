@@ -15,3 +15,7 @@ Once you have your asset downloaded or an asset link, you are ready to begin.
 **Instructions**
 1. Go to https://sphcst.com
 
+![sphcst](https://user-images.githubusercontent.com/28787937/41195437-5e91b7de-6be2-11e8-9c18-daafdf7ac2ea.png)
+
+
+2. Do one of the following: Upload your 360 image or enter the URL of your 360 image.
