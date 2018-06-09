@@ -42,5 +42,23 @@ In order to create our VR experiences, you will need to assets that you can use 
 :rocket: [**LAB 3: App-based VR**](https://github.com/mirarol/mirarol.github.io/blob/master/vr/lab3.md)
 
 ## Resources
-These labs are part of a workshop that I faciliate. In this repo, I will not go over how to capture 360 images and video. However, there are several resource you can find by a simple Google search. 
+These labs are part of a workshop that I faciliate. In this repo, I will not go over how to capture 360 images and video. However, there are several resource you can find by a simple Google search. However, here are some reference materials and equipment I recommend:
+
+**Storyboarding for IDs**
+
+* [Myra's FOV Storyboard](https://www.dropbox.com/s/hdntgapiifgbl2f/FOV-Guide-1.pdf?dl=0)
+
+**Reference eBook & Websites**
+
+* [The 360 Video Handbook](https://www.dropbox.com/s/hupwexizck8n95b/The360%C3%82%C2%B0VideoHandbook.pdf?dl=0)
+
+* [Freedom360](https://freedom360.us/tutorials/)
+
+**Equipment**
+
+* Ricoh Theta 360 Camera - there are two great versions the lower cost [SC](https://www.amazon.com/Ricoh-Theta-SC-camera-Sand/dp/B01MA0XP2K/ref=sr_1_1_sspa?ie=UTF8&qid=1528579282&sr=8-1-spons&keywords=ricoh+theta+sc&psc=1) and its higher end cousin, the [V](https://www.amazon.com/Ricoh-Theta-360-Spherical-Camera/dp/B074W5BKYS/ref=sr_1_2_sspa?ie=UTF8&qid=1528579282&sr=8-2-spons&keywords=ricoh+theta+sc&psc=1)
+* [Tripod - SMATree selfie stick with tripod](https://www.amazon.com/Smatree-Q3-Telescoping-Session-Cameras/dp/B00XN1P9QI/ref=sr_1_1?ie=UTF8&qid=1528579527&sr=8-1&keywords=smatree+q3+telescoping+selfie+stick+with+tripod+stand+for+gopro+hero)
+* [Ricoh Theta phone app](https://theta360.com/en/about/application/)
+
+
 
