@@ -1,5 +1,16 @@
+
 # MyraMade VR MakerLab
 
+## Table of Content
+- [About](#about)
+- [VR Terminology](#vr-terminology)
+- [Assets](#assets)
+- [Labs](#labs)
+- [Resources](#resources)
+- [Contact](#contact)
+
+
+## About
 **Description**: This **MakerLab** consists of three individual labs that increase in complexity. **Lab 1** gets you building simple VR experience in under 5 minutes, from there we move on to **Lab 2** building a **WebVR** experience, then finish in **Lab 3** building a **Navtive VR** experinece. Each lab makes use of a different VR creator tool, however, there is *NO* coding experience required. 
 
 **Audience**: Learning Experience Designers, Instructional Designers, Instructional Design Developers, Learning Scientist
