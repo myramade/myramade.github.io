@@ -27,7 +27,11 @@ There are a few terms you need to add to your vocabulary when it comes to VR. Vi
 * Entity Comnponent-System
 
 ## Assets
-In order to create our VR experiences, you will need to assets that you can use to create your experience. I have created a number of assets that you can use to create your experience.  You can find additional assets at one of the following websites. 
+In order to create our VR experiences, you will need to assets that you can use to create your experience. I have created a number of assets that you can use to create your experience.  You can find additional assets at one of the following websites:
+1. [Myra's 360 Asset Folders](https://github.com/mirarol/mirarol.github.io/tree/master/vr/assets)
+2. [Google Images](https://www.google.com/search?q=equirectangular&tbm=isch&tbs=isz:l&cad=h)
+3. [Flickr](https://www.flickr.com/groups/equirectangular/)
+4. [Photopin](http://photopin.com/free-photos/equirectangular)
 
 ## Labs
 
