@@ -1,41 +1,36 @@
-## Myra's MakerLab
+## Myra's VR MakerLab
 
-Hey, I'm Myra. Welcome to my MakerLab. This year (2018), I will be guiding learners through several MakerLab style workshops at a number of conferences. I will use this site to share instructions, links, assets, and resources. 
+**Description**:In this lab, you will build three (3) VR prototypes using different rapid VR development tools.
 
-The best way to reach me is via LinkedIn, so be sure to connect with me. 
+**Audience**: Learning Experience Designers, Instructional Designers, Instructional Design Developers, Learning Scientist
 
-### MakerLabs
+**Goal**: The goal of this lab is to build the required knowledge to design a virtual reality (VR) experience for learning
 
-Choose your poison. 
-1. [Vroom! Let's Build a VR Prototype] ( )
-2. Let's Build a Chatbot
-3. Publish a Chatbot as an Alexa Skill
- 
+## VR Terminology
+There are a few terms you need to add to your vocabulary when it comes to VR.
 
-```markdown
-Syntax highlighted code block
+* Scenario
+* Scene
+* Presence
+* Cinematic VR
+* Data Glove
+* Haptic
+* Stitching
+* Eye Tracking
+* Field of View
+* Homeworld
+* Head mounted dispaly
+* Tethered Headset
+* Cave
+* Cross-Platform VR
+* Tool Agnostic
+* Entity Comnponent-System
 
-# Header 1
-## Header 2
-### Header 3
+## Labs
 
-- Bulleted
-- List
+**Lab 1: VR Viewer**
 
-1. Numbered
-2. List
+**Lab 2: WebVR**
 
-**Bold** and _Italic_ and `Code` text
+**LAB 3: App-based VR**
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mirarol/mirarol.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
