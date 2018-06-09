@@ -1,8 +1,10 @@
 # Myra's VR MakerLab
 
-**Description**: In this lab, you will build three (3) VR prototypes using different rapid VR development tools.
+**Description**: This **MakerLab** consists of three individual labs that increase in complexity. **Lab 1** gets you building simple VR experience in under 5 minutes, from there we move on to **Lab 2** building a **WebVR** experience, then finish in **Lab 3** building a **Navtive VR** experinece. Each lab makes use of a different VR creator tool, however, there is *NO* coding experience required. 
 
 **Audience**: Learning Experience Designers, Instructional Designers, Instructional Design Developers, Learning Scientist
+
+**Required Skills**: To complete these labs you must be have some basic computer skills and be able to download, upload, copy, and paste files from/to a web browser. For Labs 2 & 3, you should be able to have some basic storyboarding skills, however, be warned - storyoarding for VR is NOT like storyboarding for video or elearning. 
 
 **Goal**: The goal of this lab is to build the required knowledge to design a virtual reality (VR) experience for learning
 
