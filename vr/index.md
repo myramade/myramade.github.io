@@ -18,4 +18,15 @@ Once you have your asset downloaded or an asset link, you are ready to begin.
 ![sphcst](https://user-images.githubusercontent.com/28787937/41195437-5e91b7de-6be2-11e8-9c18-daafdf7ac2ea.png)
 
 
-2. Do one of the following: Upload your 360 image or enter the URL of your 360 image.
+2. Do one of the following: Upload your 360 image or enter the URL of your 360 image. 
+*Note: If you are using one of my assets found here in my Github repo, you'll need to click click on the image name to open it and then select **Copy Path**. This will copy the URL for the image, you can simply paste it onto the Google Cardboard site.*
+
+![results](https://user-images.githubusercontent.com/28787937/41195472-df827f40-6be2-11e8-87dd-cf61941998ab.png)
+
+3. The Google Cardboard site will create a custom link for your project. Now grab your phone and open your web browser on your phone and type your project URL in the web browser. 
+
+4. :rocket: Drop your phone in a VR headset and Enjoy! :rocket:
+
+
+
+[Back to main page](https://github.com/mirarol/mirarol.github.io/blob/master/index.md)
