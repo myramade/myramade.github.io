@@ -6,7 +6,7 @@
 
 **Goal**: The goal of this lab is to build the required knowledge to design a virtual reality (VR) experience for learning
 
-![Imgur](https://i.imgur.com/KQpXTlp.gifv)
+[Imgur](https://i.imgur.com/KQpXTlp.gifv)
 
 ## VR Terminology
 There are a few terms you need to add to your vocabulary when it comes to VR. Visit the [VR Glossary](http://www.vrglossary.org/)
