@@ -29,6 +29,9 @@ Once you have your asset downloaded or an asset link, you are ready to begin.
 
 
 
+## Next Lab
 You are now ready to move on to [Lab 2](https://github.com/myramade/myramade.github.io/blob/master/vr/lab2.md)
+
+## Home
 
 [Back to main page](https://github.com/myramade/myramade.github.io/blob/master/index.md)
