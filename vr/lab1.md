@@ -5,7 +5,7 @@
 In this lab we will be using the [Cardboard VR Photo Sphere Viewer](https://sphcst.com/upload). 
 
 You should have already downloaded your asset, if you haven't done so now is a good time. You can grab the URL of a single 360 image assset from one of the following locations:
-1. [Myra's 360 Asset Folders](https://github.com/mirarol/mirarol.github.io/tree/master/vr/assets)
+1. [Myra's 360 Asset Folders](https://github.com/myramade/myramade.github.io/tree/master/vr/assets)
 2. [Google Images](https://www.google.com/search?q=equirectangular&tbm=isch&tbs=isz:l&cad=h)
 3. [Flickr](https://www.flickr.com/groups/equirectangular/)
 4. [Photopin](http://photopin.com/free-photos/equirectangular)
@@ -29,5 +29,6 @@ Once you have your asset downloaded or an asset link, you are ready to begin.
 
 
 
-You are now ready to move on to [Lab 2](https://github.com/mirarol/myramade.github.io/blob/master/lab2.md)
-[Back to main page](https://github.com/mirarol/myramade.github.io/blob/master/index.md)
+You are now ready to move on to [Lab 2](https://github.com/myramade/myramade.github.io/blob/master/vr/lab2.md)
+
+[Back to main page](https://github.com/myramade/myramade.github.io/blob/master/index.md)
