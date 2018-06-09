@@ -1,10 +1,10 @@
 ## Myra's VR MakerLab
 
-**Description**: In this lab, you will build three (3) VR prototypes using different rapid VR development tools.
+:rocket: **Description**: In this lab, you will build three (3) VR prototypes using different rapid VR development tools.
 
-**Audience**: Learning Experience Designers, Instructional Designers, Instructional Design Developers, Learning Scientist
+:rocket: **Audience**: Learning Experience Designers, Instructional Designers, Instructional Design Developers, Learning Scientist
 
-**Goal**: The goal of this lab is to build the required knowledge to design a virtual reality (VR) experience for learning
+:rocket: **Goal**: The goal of this lab is to build the required knowledge to design a virtual reality (VR) experience for learning
 
 ![sanberg-vr](https://user-images.githubusercontent.com/28787937/41195931-5014b11c-6beb-11e8-98a0-87b7cd38b664.gif)
 
@@ -37,9 +37,9 @@ In order to create our VR experiences, you will need to assets that you can use 
 
 ## Labs
 
-[**Lab 1: VR Viewer**](https://github.com/mirarol/mirarol.github.io/blob/master/vr/lab1.md)
+:rocket: [**Lab 1: VR Viewer**](https://github.com/mirarol/mirarol.github.io/blob/master/vr/lab1.md)
 
-[**Lab 2: WebVR**](https://github.com/mirarol/mirarol.github.io/blob/master/vr/lab2.md)
+:rocket: [**Lab 2: WebVR**](https://github.com/mirarol/mirarol.github.io/blob/master/vr/lab2.md)
 
-[**LAB 3: App-based VR**](https://github.com/mirarol/mirarol.github.io/blob/master/vr/lab3.md)
+:rocket: [**LAB 3: App-based VR**](https://github.com/mirarol/mirarol.github.io/blob/master/vr/lab3.md)
 
