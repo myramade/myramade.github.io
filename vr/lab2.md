@@ -2,7 +2,7 @@
  **Level of Difficulty: Normal**
 
 ## About
-In this lab, we will design a VR experience using 360 images and video with gaze-activated content. Our design will have 3 scenes, use your [VR_FOV_Template](https://www.dropbox.com/s/ekhp9eue6gendp2/VR_FOV_Template.pdf?dl=0) to storyboard the VR experience you will create:
+In this lab, we will design a WebVR experience using 360 images and video with gaze-activated content. Our design will have 3 scenes, use your [VR_FOV_Template](https://www.dropbox.com/s/ekhp9eue6gendp2/VR_FOV_Template.pdf?dl=0) to storyboard the VR experience you will create:
 * Homeworld - The homeworld have menu that will allow the user to enter a different scene. 
 * Scene 2 - The 2nd scene will offer text-based information to the user and have a menu that takes the user back to the homeworld
 * Scene 3 - The 3rd scene will 
