@@ -62,6 +62,7 @@ Select *Share* from the navigation bar and select how you want to share. I sugge
 
 :rocket: Using your smartphone, open a web browser and open your SeekBeak link. Drop your phone in a VR headset and Enjoy! :rocket:
 
+## Sample
 Checkout my [SeekBeak VR Prototype](http://bit.ly/webvrmyra)
 
 ## Next Lab
