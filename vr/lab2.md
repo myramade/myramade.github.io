@@ -51,6 +51,15 @@ Your assets are now groups. You can find them by selecting the group name in the
 
 **You're at the home stretch**
 
+## Test
+:rocket: Using your smartphone, open a web browser and open your SeekBeak link. Drop your phone in a VR headset and test. Things you are lookig for are: 
+* Flow - does you story flow? Does the information you display make sense? What other items would you add or edit?
+* Functionality - is it working the way you intented? Are all the hotspots opening correctly?
+* Grammatical - Are there any misspelling? Bad grammar? Are the terms you using clear and concise?
+* Usability - are you images and video easy to navigate? Are the locations of your hotspots easy to find? Will the user intutively know that you hotspot is a hotspot? 
+
+Make edits and tweaks based on your findings before moving on. 
+
 ## Publish 
 
 It's time to publish your VR experience. This is the simple step, after you've edited all your scenes and have tested by making sure your hotspots link the way you intended them, you are ready to publish your work. By publish, I mean *Share*. 
@@ -59,8 +68,6 @@ Select *Share* from the navigation bar and select how you want to share. I sugge
 
 ![share](https://user-images.githubusercontent.com/28787937/41197478-ad0a9052-6c14-11e8-8f09-0a3ccabc6d02.png)
 
-
-:rocket: Using your smartphone, open a web browser and open your SeekBeak link. Drop your phone in a VR headset and Enjoy! :rocket:
 
 ## Sample
 Checkout my [SeekBeak VR Prototype](http://bit.ly/webvrmyra)
