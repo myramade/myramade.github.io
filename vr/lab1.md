@@ -1,5 +1,5 @@
 
-## Lab 1 - Viewer
+# Lab 1 - Viewer
 **Level of Difficulty: Easy**
 
 ## About
