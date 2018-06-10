@@ -1,8 +1,11 @@
-## Lab 2 - WebVR
+# Lab 2 - WebVR
  **Level of Difficulty: Normal**
 
 ## About
-In this lab, we will design a WebVR experience using 360 images and video with gaze-activated content. Our design will have 3 scenes, use your [VR_FOV_Template](https://www.dropbox.com/s/ekhp9eue6gendp2/VR_FOV_Template.pdf?dl=0) to storyboard the VR experience you will create:
+In this lab, we will design a WebVR experience using 360 images and video with gaze-activated content. WebVR is an open JavaScript appllication program interface (API) that gives you the ability to create VR experiences that can be viewed in a compartible a web browser. This means that it's not tied to a device type like, iPhone, Android, Occulu, HTC Vive, etc., althought it is compatible with these devices. You can read more about WebVR at [WebVR Info](https://webvr.info/) and [WebVR Experiements](https://experiments.withgoogle.com/collection/webvr)
+
+# Design
+Our design will have 3 scenes, use your [VR_FOV_Template](https://www.dropbox.com/s/ekhp9eue6gendp2/VR_FOV_Template.pdf?dl=0) to storyboard the VR experience you will create:
 * Homeworld - The homeworld have menu that will allow the user to enter a different scene. 
 * Scene 2 - The 2nd scene will offer text-based information to the user and have a menu that takes the user back to the homeworld
 * Scene 3 - The 3rd scene will 
