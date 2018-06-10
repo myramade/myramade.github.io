@@ -3,7 +3,9 @@
 **Level of Difficulty: Easy**
 
 ## About
-In this lab we will be using the [Cardboard VR Photo Sphere Viewer](https://sphcst.com/upload). 
+In this lab we will be using the [Cardboard VR Photo Sphere Viewer](https://sphcst.com/upload). The Photo Sphere View is a single scene 360 image viewer. It will not work with 360 video *(I tried it unsuccessfully!)*. For this project there will be no storyboarding, however, you will need one 360 image. 
+
+You will not be able to add any interactive elements to your VR experience, this is just a view. Of the three VR experiences, this is the easiest and fastest to create. 
 
 ## Assets
 You will need one 360 image asset. You can either donwload the imag or copy the URL of a single 360 image assset from one of the following locations:
