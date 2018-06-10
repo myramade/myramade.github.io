@@ -62,7 +62,7 @@ Select *Share* from the navigation bar and select how you want to share. I sugge
 
 :rocket: Using your smartphone, open a web browser and open your SeekBeak link. Drop your phone in a VR headset and Enjoy! :rocket:
 
-Checkout my [SeekBeak VR Prototype](https://seekbeak.com/v/AB81vxRAjoN?utm_source=seakbeak&utm_medium=webVR&utm_campaign=WebVR%20prototype)
+Checkout my [SeekBeak VR Prototype](http://bit.ly/webvrmyra)
 
 ## Next Lab
 You are now ready to move on to [Lab 3](https://github.com/myramade/myramade.github.io/blob/master/vr/lab3.md)
