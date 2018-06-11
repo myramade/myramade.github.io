@@ -1,4 +1,4 @@
-# Lab 3 - Navtive VR 
+# Lab 3 - Native VR 
 Level of Difficulty: Normal
 
 ## About
@@ -31,7 +31,7 @@ You will need to either download the 360 images/videos(write the image/video nam
 
 ![warp-scenario](https://user-images.githubusercontent.com/28787937/41213938-3f5d5d3e-6cfd-11e8-8a59-8f576c6c5376.png)
 
-4. Next, we'll add *Scenes*. At first look the user interface doesn't appear intuitive, but adding a scene is super easy just double-click anywhere on the workspace. An *Add scene* menu displays. Select the *Scene* type you would like to create. For this project, we will select *Information* for our first scene. 
+4. Next, we'll add *Scenes*. Scene cards are created on the default *flow* screen. At first look the user interface doesn't appear intuitive, but adding a scene is super easy just double-click anywhere on the workspace. An *Add scene* menu displays. Select the *Scene* type you would like to create. For this project, we will select *Information* for our first scene. 
 
 You have a choice of 5 scene types:
   * [Information](http://help.warp.studio/creating-scenarios/different-scene-types/add-an-information-scene) - An Information scene is a scene with only one interactive element, which is a question in combination with a button. Both question and button are required. Use this scene when you want to inform your trainee about something. 
@@ -59,7 +59,7 @@ Note: You can also create a new scene by double-clicking on the workspace. To li
 
 !(linkingtwoscenes](https://downloads.intercomcdn.com/i/o/34261224/b83777e719e6a2bf84cc7212/flow-linking.gif)
 
-7. Now, let's add media assets to our *Scenes*
+7. Now, let's add media assets to our *Scenes*. Media is added on the *Scene* page, select the *Scenes* link. On the *Scenes* page scroll down to the bottom of the page. You can only add 360 video to your scenes, click the **360 media** button and then select the video that you want to use for the scene.  
 
 
 **Full instructions coming soon**
