@@ -76,6 +76,7 @@ Since you've already uploaded the video, it should render on screen pretty fast.
 
 ## Test
 Review the scenes in your scenario and make sure they follow the flow of your planned design You can test your design flow before publishing.  Click *Test* on the top right of the page and run through the scenario.  Your 360 videos will not display when testing here. You will only be able to view the branching. 
+<img width="890" alt="warp-test" src="https://user-images.githubusercontent.com/28787937/41270626-1eaedfd0-6dc1-11e8-9690-7754afe4da7b.png">
 
 ## Publish
 Before you publish your scenario, you will need to add the names of trainees that you want to have access to the VR exprience. Click **Trainees** at the top of the screen, then click **Add user**. Enter the required user information. *Note: users will need to donlwoad the Warp VR app to their devices to access the VR experience*
