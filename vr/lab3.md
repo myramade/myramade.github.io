@@ -57,18 +57,35 @@ Note: You can zoom you workspace view in and out. The more scenes you add the mo
 
 Note: You can also create a new scene by double-clicking on the workspace. To link unlinked scenes click on the *A* that appears on the scene you want link and then click and drag you mouse to the connected scene and release your mouse. A connector all display linking the two scenes. 
 
-!(linkingtwoscenes](https://downloads.intercomcdn.com/i/o/34261224/b83777e719e6a2bf84cc7212/flow-linking.gif)
+![linkingtwoscenes](https://downloads.intercomcdn.com/i/o/34261224/b83777e719e6a2bf84cc7212/flow-linking.gif)
 
-7. Now, let's add media assets to our *Scenes*. Media is added on the *Scene* page, select the *Scenes* link. On the *Scenes* page scroll down to the bottom of the page. You can only add 360 video to your scenes, click the **360 media** button and then select the video that you want to use for the scene.  
+7. You will need to decid how to end the exprience. Each scenario must have at least one ending, but can have multiple. Although all endings are the same, it doesn't matter for the scenario itself how much endings you add to your flow diagram. You could add more than one to get a better organised flow diagram. Endings are added in the same way you create a new scene. 
+
+8. Now, let's add media assets to our *Scenes*. Media is added on the *Scene* page, select the *Scenes* link. On the *Scenes* page scroll down to the bottom of the page. You can only add 360 video to your scenes, click the **Select 360 media** button and then select the video that you want to use for the scene.  
+
+Since you've already uploaded the video, it should render on screen pretty fast. It will appear as a flat image. You can now click and drag the menu icons that were created based on the type of scene you selected. You can also adjust when the menu icons appear and the starting point of your video loop. 
+
+<img width="1168" alt="warp-select-media" src="https://user-images.githubusercontent.com/28787937/41270540-b4c10b48-6dc0-11e8-894f-2532197bc985.png">
 
 
-**Full instructions coming soon**
+*Note: you can not add more than one video to a scene and you cannot resize the menu icons. *
+
+9. Repeat step 8 for the rest of your scenes. 
+
+*Note: You can use Warp Studio to design first and decide what videos need to be captured after the fact.  On the *Scenes* page, scroll down and select *Filming*. On the *Filming* page you can descript the location of the scene that should be captured. You can then export by clicking on the additional menu (...) and select *Export Scenario*, this will create a pdf with all your scenarios i you select to export them all. 
 
 ## Test
-**Coming Soon!**
+Review the scenes in your scenario and make sure they follow the flow of your planned design You can test your design flow before publishing.  Click *Test* on the top right of the page and run through the scenario.  Your 360 videos will not display when testing here. You will only be able to view the branching. 
 
 ## Publish
-**Coming Soon!**
+Before you publish your scenario, you will need to add the names of trainees that you want to have access to the VR exprience. Click **Trainees** at the top of the screen, then click **Add user**. Enter the required user information. *Note: users will need to donlwoad the Warp VR app to their devices to access the VR experience*
+
+<img width="883" alt="warp-addusers" src="https://user-images.githubusercontent.com/28787937/41270567-d23640f8-6dc0-11e8-973a-9a7c23d41a9a.png">
+
+Once all your trainees are added. Go back to **Scenes** and select **Publish**. Run through the required checks to publish you Scenario, including adding the trainees who will have access to the VR experience. Your VR scenario will be pushed to the Warp App to the trainees you selected.  
+
+Warp provides you with usage reports that displays the user's interaction with the VR scenario. Below is a sample report: 
+![activity](https://user-images.githubusercontent.com/28787937/41270488-6e3d61f8-6dc0-11e8-9ff3-26741af9d069.png)
 
 ## Sample
 **Coming Soon!**
