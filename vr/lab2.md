@@ -20,7 +20,7 @@ For this lab you will need to three (3) VR Assets, we will use a combination of 
 You will need to either download the 360 images/videos or get their URLs (write the image/video name in your VR storyboard) Now you're read move onto the *Build* phase
 
 ## Build
-1. Go to https://seakbeak.com and create an *free* account
+1. Go to https://seekbeak.com and create an *free* account
 
 2. **Add your assets**. You'll be taken to your snaps dashboard, let's begin by uploading the three 360 images/videos you downloaded. Click the **+** at the top right of the screen. The *New Snap* screen displays, do one of the following: drag and drop an image or video to the *New Snap* window or paste the image or video URL into the *Get Image!* field. Repeat this step for all three of your assets.
 
