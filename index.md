@@ -54,6 +54,8 @@ In order to create our VR experiences, you will need to assets that you can use 
 
 [LAB 3: App-based VR](https://github.com/mirarol/mirarol.github.io/blob/master/vr/lab3.md)
 
+[LAB 4: WebVR App-based](https://github.com/myramade/myramade.github.io/blob/master/vr/lab4.md)
+
 ## Resources
 These labs are part of a workshop that I faciliate. In this repo, I will not go over how to capture 360 images and video. However, there are several resource you can find by a simple Google search. However, here are some reference materials and equipment I recommend:
 
