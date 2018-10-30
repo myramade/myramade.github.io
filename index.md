@@ -11,7 +11,7 @@
 
 
 ## About
-**Description**: This **MakerLab** consists of several individual labs that increase in complexity. **Lab 1** gets you building simple VR experience in under 5 minutes, from there we move on to **Lab 2** building a **WebVR** experience, then you move onto **Lab 3** building a **Navtive VR** experinece. Each lab makes use of a different VR creator tool, however, there is *NO* coding experience required, finally in **Lab 4** building a WebVR ona platform that offers some great analytics and again, no coding required. *More labs will be added, so be sure to *Star* this repository. 
+**Description**: This **MakerLab** consists of several individual labs that increase in complexity. **Lab 1** gets you building simple VR experience in under 5 minutes, from there we move on to **Lab 2** building a **WebVR** experience, then you move onto **Lab 3** building a **Navtive VR** experinece. Each lab makes use of a different VR creator tool, however, there is *NO* coding experience required, finally in **Lab 4** building a WebVR ona platform that offers some great analytics and again, no coding required. *More labs will be added, so be sure to *Star* this repository.*
 
 **Audience**: Learning Experience Designers, Instructional Designers, Instructional Design Developers, Learning Scientist
 
