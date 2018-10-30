@@ -2,7 +2,7 @@
 
 # Lab 5 - WebVR - A-Frame
 
-## Level of Difficulty: Complex
+Level of Difficulty: Complex
 
 ## About
 In this lab, we will design a navtive VR experiencing using 360 images, video, along with some 3D Objects with gaze-activated content. WebVR is device agnostic and doesn't require any special apps, in the case of this prototype. This experience can be views using VR goggles or without which makes it a bit more accessible. 
