@@ -17,7 +17,7 @@
 
 **Required Skills**: To complete these labs you must be have some basic computer skills and be able to download, upload, copy, and paste files from/to a web browser. For Labs 2 & 3, you should be able to have some basic storyboarding skills, however, be warned - storyoarding for VR is NOT like storyboarding for video or elearning. 
 
-**Goal**: The goal of this lab is to build the required knowledge to design a virtual reality (VR) experience for learning
+**Goal**: The goal of this lab is to build the required knowledge to design and build a virtual reality (VR) learning experience using easy-to-use VR development platforms with no to little coding required. 
 
 ![sanberg-vr](https://user-images.githubusercontent.com/28787937/41195931-5014b11c-6beb-11e8-98a0-87b7cd38b664.gif)
 
@@ -59,9 +59,11 @@ You can also checkout a video of my first VR creation [3D VR Team Game Activity]
 
 [Lab 2: WebVR](https://github.com/mirarol/mirarol.github.io/blob/master/vr/lab2.md)
 
-[LAB 3: App-based VR](https://github.com/mirarol/mirarol.github.io/blob/master/vr/lab3.md)
+[Lab 3: App-based VR](https://github.com/mirarol/mirarol.github.io/blob/master/vr/lab3.md)
 
-[LAB 4: WebVR App-based](https://github.com/myramade/myramade.github.io/blob/master/vr/lab4.md)
+[Lab 4: WebVR App-based](https://github.com/myramade/myramade.github.io/blob/master/vr/lab4.md) {under construction}
+
+[Lab 5: WebVR web-based](https://github.com/myramade/myramade.github.io/blob/master/vr/lab5.md) {coming soon}
 
 ## Resources
 These labs are part of a workshop that I faciliate. In this repo, I will not go over how to capture 360 images and video. However, there are several resource you can find by a simple Google search. However, here are some reference materials and equipment I recommend:
