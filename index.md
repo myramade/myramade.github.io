@@ -51,7 +51,7 @@ In order to create our VR experiences, you will need to assets that you can use 
 3. [Flickr](https://www.flickr.com/groups/equirectangular/)
 4. [Photopin](http://photopin.com/free-photos/equirectangular)
 
-You can also checkout a video of my first VR creation [3D VR Team Game Activity] (Demofest_Submission_MyraRoldan_GPStrategies.mp4)
+You can also checkout a video of my first VR creation [3D VR Team Game Activity](http://bit.ly/myra-vr-demo)
 
 ## Labs
 
