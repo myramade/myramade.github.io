@@ -20,4 +20,4 @@ For this lab you will need to three to five VR Assets, we will use a combination
 
 You will need to either download the 360 images/videos(write the image/video name in your VR storyboard) Now you're read move onto the *Build* phase
 
-# Build
+## Build
