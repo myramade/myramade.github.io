@@ -16,7 +16,8 @@ For this lab you will need to three to five VR Assets, we will use a combination
 1. [Myra's 360 Asset Folders](https://github.com/myramade/myramade.github.io/tree/master/vr/assets)
 2. [Google Images](https://www.google.com/search?q=equirectangular&tbm=isch&tbs=isz:l&cad=h)
 3. [Flickr](https://www.flickr.com/groups/equirectangular/)
-4. [Photopin](http://photopin.com/free-photos/equirectangular)
+4. [Photopin](http://photopin.com/free-photos/equirectangularz)
+5. [svrf](http://svrf.com)
 
 You will need to either download the 360 images/videos(write the image/video name in your VR storyboard) Now you're read move onto the *Build* phase
 
