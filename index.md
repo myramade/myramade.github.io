@@ -11,7 +11,7 @@
 
 
 ## About
-**Description**: This **MakerLab** consists of three individual labs that increase in complexity. **Lab 1** gets you building simple VR experience in under 5 minutes, from there we move on to **Lab 2** building a **WebVR** experience, then finish in **Lab 3** building a **Navtive VR** experinece. Each lab makes use of a different VR creator tool, however, there is *NO* coding experience required. 
+**Description**: This **MakerLab** consists of four individual labs that increase in complexity. **Lab 1** gets you building simple VR experience in under 5 minutes, from there we move on to **Lab 2** building a **WebVR** experience, then you move onto **Lab 3** building a **Navtive VR** experinece. Each lab makes use of a different VR creator tool, however, there is *NO* coding experience required, finally in **Lab 4** building a WebVR ona platform that offers some great analytics and again, no coding required. 
 
 **Audience**: Learning Experience Designers, Instructional Designers, Instructional Design Developers, Learning Scientist
 
@@ -50,6 +50,8 @@ In order to create our VR experiences, you will need to assets that you can use 
 2. [Google Images](https://www.google.com/search?q=equirectangular&tbm=isch&tbs=isz:l&cad=h)
 3. [Flickr](https://www.flickr.com/groups/equirectangular/)
 4. [Photopin](http://photopin.com/free-photos/equirectangular)
+
+You can also checkout a video of my first VR creation [3D VR Team Game Activity] (Demofest_Submission_MyraRoldan_GPStrategies.mp4)
 
 ## Labs
 
