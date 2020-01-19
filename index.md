@@ -72,6 +72,8 @@ These labs are part of a workshop that I faciliate. In this repo, I will not go 
 
 * [Myra's FOV Storyboard](https://www.dropbox.com/s/hdntgapiifgbl2f/FOV-Guide-1.pdf?dl=0)
 
+* [VR_FOV_Template.pdf](https://github.com/myramade/myramade.github.io/files/4083512/VR_FOV_Template.pdf)
+
 **Reference eBook & Websites**
 
 * [The 360 Video Handbook](https://www.dropbox.com/s/hupwexizck8n95b/The360%C3%82%C2%B0VideoHandbook.pdf?dl=0)
