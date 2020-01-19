@@ -90,4 +90,5 @@ These labs are part of a workshop that I faciliate. In this repo, I will not go 
 Want to bring me to your org for a VR Maker Lab? Connect with me on [LinkedIn](https://www.linkedin.com/in/myraroldan/) & send me a message. 
 ![17f8b46e-c02f-4d39-9193-d3c1fcedaaa2](https://user-images.githubusercontent.com/28787937/41196329-11a3ce5c-6bf2-11e8-9b53-f7c7e0846266.GIF)
 
-Keep your eyes peeled for my Voice User Interface lab! Coming Soon. 
+#Checkout my other labs 
+* [Build an Alexa Skill in 10 mins](https://myramade.github.io/hbcu_alexa/)
