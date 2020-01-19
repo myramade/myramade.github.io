@@ -1,4 +1,4 @@
-# Lab 3 - Native VR 
+# Lab 3 - App-based VR 
 Level of Difficulty: Normal
 
 ## About
